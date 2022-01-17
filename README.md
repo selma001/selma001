@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selma001
 - 👀 I’m interested in web dev & app dev 
-- 🌱 I’m currently learning c / python / java / javascript / html / css !!
+- 🌱 I’m currently learning web developement ..
 
 
 <!---
